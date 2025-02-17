@@ -7,18 +7,17 @@ s
 
 
  
-- 👨‍💻 You can get more details at https://surajanshrestha.com.np/
 - 📫 How to reach me **trilocangaha69@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/surajan__shrestha/" target="_blank">
+  <a href="https://www.instagram.com/asura6909/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Trilochan Gaha" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/shrestha.surajan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Surajan Shrestha" height="30" width="40" />
+  <a href="https://www.facebook.com/pawan.gaha.18/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" />
   </a>
   <a href="https://wa.me/9867431155" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
